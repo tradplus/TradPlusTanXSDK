@@ -4,7 +4,7 @@
   s.version          = '3.3.0'
   s.summary          = 'TradPlusTanXSDK'
   s.description      = <<-DESC
-      TradPlusTanXSDK,TradPlusTanXSDK,Kidoz
+      TradPlusTanXSDK,TradPlusTanXSDK
                        DESC
   s.homepage         = 'https://github.com/tradplus/TradPlusTanXSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
