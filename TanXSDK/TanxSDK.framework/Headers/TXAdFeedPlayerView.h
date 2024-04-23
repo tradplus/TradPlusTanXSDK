@@ -81,6 +81,11 @@ typedef NS_ENUM(NSInteger,TXAdFeedPlayerStatus){
 - (void)play;
 
 /**
+ * 重新播放
+ */
+- (void)replay;
+
+/**
  * 暂停
  */
 - (void)pause;
