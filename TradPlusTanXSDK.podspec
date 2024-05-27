@@ -1,7 +1,7 @@
 
   Pod::Spec.new do |s|
   s.name             = 'TradPlusTanXSDK'
-  s.version          = '3.4.5'
+  s.version          = '3.5.0'
   s.summary          = 'TradPlusTanXSDK'
   s.description      = <<-DESC
       TradPlusTanXSDK,TradPlusTanXSDK
